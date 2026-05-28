@@ -4,7 +4,6 @@
 
 Actuareu com a consultors “en practiques” en sostenibilitat per a l'empresa fictícia "Coworking Mataró". La vostra missió és transformar la seva infraestructura informàtica actual (ineficient i contaminant) en un model d'Economia Circular, optimitzant el rendiment tècnic i reduint l'impacte ambiental.
 
-<img width="907" height="493" alt="image" src="https://github.com/user-attachments/assets/dd98ada5-43f5-442d-abc3-316751a0af98" />
 
 L'empresa disposa de:
 
